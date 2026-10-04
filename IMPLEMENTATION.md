@@ -2,7 +2,7 @@
 
 ## Scope
 
-This is a new static website for the agency-facing Agent Air product. No files were edited in Agent Air Direct or the Business Signal Intelligence Suite.
+This is a new static website for the agency-facing Agent Air product. No files were edited in Agent Air Direct or the Agent Air Intelligence Suite.
 
 ## Files
 

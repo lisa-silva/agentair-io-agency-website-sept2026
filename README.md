@@ -1,6 +1,6 @@
 # Agent Air agency website
 
-Standalone public website project for `agentair.io`. It is intentionally separate from the Agent Air Direct website and the Business Signal Intelligence Suite application.
+Standalone public website project for `agentair.io`. It is intentionally separate from the Agent Air Direct website and the Agent Air Intelligence Suite application.
 
 ## Local preview
 
